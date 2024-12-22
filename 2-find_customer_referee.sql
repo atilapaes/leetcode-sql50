@@ -11,7 +11,7 @@ id is the PK.
 Each row is the id of a customer, their name and the id of the customer who referred them.
 
 
-Quetion:
+Question:
 Find the names of the customer that are not referred by the customer with id =2.
 
 Results:
