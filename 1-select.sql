@@ -30,10 +30,8 @@ INSERT INTO Products VALUES (2, 'N', 'Y');
 INSERT INTO Products VALUES (3, 'Y', 'Y');
 INSERT INTO Products VALUES (4, 'N', 'N');
 
--- fetch
--- SELECT * FROM Products
 
--- Write your MySQL query statement below
+-- Answer
 SELECT product_id
 FROM Products
 WHERE low_fats = 'Y' AND recyclable = 'Y'
