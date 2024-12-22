@@ -2,3 +2,4 @@ leetcode-sql50.iml
 workspace.xml
 .idea/~
 .DS_Store
+.gitignore
